@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Dinesh Pic2.jpg" width="35%" />
+  <img src="" width="35%" />
 </p>
 
 <!-- HEADER -->
