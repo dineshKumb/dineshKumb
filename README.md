@@ -106,10 +106,10 @@ I’ve completed:
 **🎖️ 22 Azure Cloud Badges**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Skills%20-%2022%20Badges-blue?style=for-the-badge&logo=microsoft-azure" />
+  <img src="https://img.shields.io/badge/%20-%2022%20Badges-blue?style=for-the-badge&logo=microsoft-azure" />
 </p>
 
-👉 
+
 <img width="103" height="102" alt="image" src="https://github.com/user-attachments/assets/530aaa60-60ec-441f-a044-3e411ff887f2" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e6ead177-d7e6-4daf-bcdc-99c17276195a" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5737e530-2333-48e7-b1d5-838650356bf4" />
@@ -144,6 +144,7 @@ I’ve completed:
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
 </p>
+www.linkedin.com/in/dineshk030799
 
 ---
 
