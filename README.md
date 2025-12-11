@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="your-image-file.jpg" width="40%" />
+</p>
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=38&duration=5000&pause=1000&color=0A81F7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Dinesh+Kumbhar;" alt="Typing animation" />
