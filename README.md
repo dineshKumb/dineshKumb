@@ -42,10 +42,25 @@ I like systems that *scale*, code that *automates itself*, and pipelines that *d
 ---
 
 # 🧠 **Highlighted Projects**
+## 🎖️1. Event-Driven Azure Data Factory Orchestration Pipeline
+**Tech:** Azure Data Factory, Azure Data Lake, HTTP API, Data Flows
+- I built an event-driven ADF orchestration pipeline using parent–child pipelines:
+- Storage event trigger based on file naming conventions
+- Parent pipeline coordinating multiple child pipelines in sequence
+- Automated Source → Destination file movement with cleanup to prevent reprocessing
+- External data ingestion from GitHub using HTTP API
+- Conditional processing using nested ForEach + If Condition activities
+- Data transformations via ADF Data Flows
+- Column selection, conditional splitting into multiple outputs
+- Aggregation logic producing analytics-ready datasets
+- Final outputs delivered to Reporting layer for analytics teams
+- This demonstrates real-world ADF orchestration, event-driven automation, and production-grade pipeline design.
 
-## 🏥 1. NHS Reporting Automation — *Real Production System*
+---
+
+## 🏥 2. NHS Reporting Automation — *Real Production System*
 **Tech:** Python, PDF generation, clinical backend, automation  
-I built a full automation platform for **200+ regions** & **36 managers**:
+- I built a full automation platform for **200+ regions** & **36 managers**:
 - Auto-ingestion of financial files  
 - Tab splitting + service-level merging  
 - Backend merging with clinical data  
@@ -57,7 +72,7 @@ This is real enterprise problem-solving.
 
 ---
 
-## ✈️ 2. Azure Databricks — **Airline End-to-End Pipeline**
+## ✈️ 3. Azure Databricks — **Airline End-to-End Pipeline**
 **Tech:** Databricks, PySpark, Delta Lake  
 Pipeline covering:
 - Multi-table airline dataset ingestion  
@@ -67,7 +82,7 @@ Pipeline covering:
 
 ---
 
-## 🚕 3. NYC Taxi Data Pipeline (ADF + Databricks + Delta + PowerBI)
+## 🚕 4. NYC Taxi Data Pipeline (ADF + Databricks + Delta + PowerBI)
 **Tech:** ADF, Databricks, Delta Lake, Power BI  
 Pipeline includes:
 - Dynamic ingestion via **HTTP API**  
@@ -77,7 +92,7 @@ Pipeline includes:
 
 ---
 
-## 🔥 4. My PySpark Skills (Databricks)
+## 🔥 5. My PySpark Skills (Databricks)
 Notebook showcasing:
 - Deep transformation logic  
 - Spark optimization & performance tuning  
@@ -86,7 +101,7 @@ Notebook showcasing:
 
 ---
 
-## 🎥 5. YouTube NLP + LSTM Engagement Intelligence
+## 🎥 6. YouTube NLP + LSTM Engagement Intelligence
 **Tech:** Python, YouTube API, NLP, LSTM, Streamlit  
 Capabilities:
 - Fetch channel stats, videos, comments  
@@ -95,14 +110,6 @@ Capabilities:
 - Streamlit web app + custom DB  
 
 ---
-
-## 📊 6. Crime & Hate Data Analysis (Power BI)
-- Preprocessed data in Python  
-- Clean Power BI visuals + storytelling  
-- Focused on trends & risk indicators  
-
----
-
 
 # 🏆 Azure Achievements  
 I’ve completed:
