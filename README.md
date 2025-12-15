@@ -58,7 +58,7 @@ I like systems that *scale*, code that *automates itself*, and pipelines that *d
 
 ---
 
-## 🏥 2. NHS Reporting Automation — *Real Production System*
+## 🏥 2. Clinical Reporting Automation — *Real Production System*
 **Tech:** Python, PDF generation, clinical backend, automation  
 - I built a full automation platform for **200+ regions** & **36 managers**:
 - Auto-ingestion of financial files  
