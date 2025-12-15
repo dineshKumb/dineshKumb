@@ -58,21 +58,7 @@ I like systems that *scale*, code that *automates itself*, and pipelines that *d
 
 ---
 
-## 🏥 2. Clinical Reporting Automation — *Real Production System*
-**Tech:** Python, PDF generation, clinical backend, automation  
-- I built a full automation platform for **200+ regions** & **36 managers**:
-- Auto-ingestion of financial files  
-- Tab splitting + service-level merging  
-- Backend merging with clinical data  
-- KPI generation  
-- Auto-generated PDF reports  
-- Huge time savings + zero manual errors  
-
-This is real enterprise problem-solving.
-
----
-
-## ✈️ 3. Azure Databricks — **Airline End-to-End Pipeline**
+## ✈️ 2. Azure Databricks — **Airline End-to-End Pipeline**
 **Tech:** Databricks, PySpark, Delta Lake  
 Pipeline covering:
 - Multi-table airline dataset ingestion  
@@ -82,7 +68,7 @@ Pipeline covering:
 
 ---
 
-## 🚕 4. NYC Taxi Data Pipeline (ADF + Databricks + Delta + PowerBI)
+## 🚕 3. NYC Taxi Data Pipeline (ADF + Databricks + Delta + PowerBI)
 **Tech:** ADF, Databricks, Delta Lake, Power BI  
 Pipeline includes:
 - Dynamic ingestion via **HTTP API**  
@@ -92,7 +78,7 @@ Pipeline includes:
 
 ---
 
-## 🔥 5. My PySpark Skills (Databricks)
+## 🔥 4. My PySpark Skills (Databricks)
 Notebook showcasing:
 - Deep transformation logic  
 - Spark optimization & performance tuning  
@@ -101,7 +87,7 @@ Notebook showcasing:
 
 ---
 
-## 🎥 6. YouTube NLP + LSTM Engagement Intelligence
+## 🎥 5. YouTube NLP + LSTM Engagement Intelligence
 **Tech:** Python, YouTube API, NLP, LSTM, Streamlit  
 Capabilities:
 - Fetch channel stats, videos, comments  
